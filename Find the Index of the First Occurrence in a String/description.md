@@ -1,7 +1,8 @@
-### Find the Index of the First Occurrence in a String   
+### Find the Index of the First Occurrence in a String     
 
+  
 
-## Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.  
+ Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.  
 
  
  
@@ -16,9 +17,9 @@ Input: haystack = "leetcode", needle = "leeto"
 Output: -1   
 Explanation: "leeto" did not occur in "leetcode", so we return -1.   
     
-# Constraints:  
-1 <= haystack.length, needle.length <= 104  
-haystack and needle consist of only lowercase English characters.    
-
+# Constraints:    
+- 1 <= haystack.length, needle.length <= 104  
+- haystack and needle consist of only lowercase English characters.       
+   
  <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/ 
 " > Question link</a>
